@@ -10,5 +10,3 @@ say "apple"
     if print
        loop
 ```
-
-smol projek
