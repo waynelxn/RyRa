@@ -25,6 +25,12 @@ say "apple"
 # Patch
 still making it so probably fix something and "add" fym "add" its already on 'features'.
 
+# How
+how to use it
+```
+ruby ryra.rb example.rr
+```
+
 # MIT
 ```
 MIT License
